@@ -1,0 +1,375 @@
+/* Sidebar styles */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 650px;
+  background: linear-gradient(to bottom, #192f4a 70%, #3066A8 100%);
+  transform: translateX(-540px);
+  transition: transform 0.3s ease-in-out, backdrop-filter 0.3s ease-in-out;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1000;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+  backdrop-filter: blur(10px);
+  background: linear-gradient(to bottom, rgba(25, 47, 74, 0.8) 70%, rgba(48, 102, 168, 0.8) 100%);
+}
+
+/* Burger menu icon styles */
+.sidebar-toggle {
+  position: absolute;
+  right: 0px;
+  top: 70px;
+  width: 40px;
+  height: 40px;
+  right: 35px;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.burger-icon {
+  width: 37px;
+  height: 28px;
+  right: 35px;
+  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+}
+.setting-icon {
+  width: 43px;
+  height: 43px;
+  margin-top: 160px;
+}
+
+.sidebar-content {
+  padding: 20px;
+  overflow-y: auto;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.sidebar-heading {
+  color: #1BB3BE;
+  font-weight: bold;
+  font-size: 36px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  margin-left: 65px;
+}
+
+/* Dropdown Wrapper */
+.dropdown-wrapper {
+  margin: 20px 0;
+}
+
+/* Dropdown Header */
+.dropdown-header {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #E7E7E7;
+  color: #fff;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-left: 65px;
+  width: 400px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Dropdown Arrow */
+.dropdown-arrow {
+  font-size: 18px;
+  transition: transform 0.3s ease;
+  color: #333;
+}
+
+/* Dropdown Content */
+.dropdown-content {
+  background-color: #245077;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  width: 400px;
+  margin-left: 65px;
+}
+
+/* Upload Section */
+.upload-section {
+  margin: 20px 0;
+}
+
+.upload-label {
+  font-size: 18px;
+  color: #1BB3BE;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 65px;
+}
+
+.file-upload-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  border: 2px dashed #1BB3BE;
+  text-align: center;
+  cursor: pointer;
+  width: 380px;
+  margin-left: 65px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.upload-icon {
+  width: 45px;
+  height: 45px;
+  opacity: 0.7;
+}
+
+.file-upload-placeholder p {
+  margin: 0;
+}
+
+.file-name {
+  color: #1BB3BE;
+  margin-top: 10px;
+  font-weight: bold;
+  margin-left: 26%;
+  font-size: 17px;
+}
+
+.upload-status {
+  font-size: 14px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.upload-status.error {
+  color: #721c24;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  width: 410px;
+  margin-left: 66px;
+}
+
+.upload-status.success {
+  color: #155724;
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  width: 410px;
+  margin-left: 66px;
+}
+
+/* Increase font size for Instructions */
+.dropdown-header span:first-child {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* New styles for manual select section */
+.manual-select-section {
+  margin: 20px 0;
+}
+
+.manual-select-label {
+  font-size: 18px;
+  color: #1BB3BE;
+  margin-top: 50px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 65px;
+}
+
+.manual-select {
+  width: 425px;
+  height: 51px;
+  padding: 10px;
+  margin-left: 65px;
+  background-color: #E7E7E7;
+  color: #333;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: 'Urbanist', sans-serif;
+  font-weight: bold;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.manual-select:focus {
+  outline: none;
+  border: 2px solid #1BB3BE;
+}
+
+.manual-select option {
+  background-color: #E7E7E7;
+  color: #333;
+}
+
+/*.sidebar .upload-section button {
+  background-color: #284F7D;
+  font-family: 'Urbanist', sans-serif;
+  font-weight: bold;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 34%;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar .upload-section button:hover {
+  background-color: #4b5f76;
+}
+
+.sidebar .upload-section button:active {
+  background-color: #003f7f;
+}
+
+.sidebar .upload-section button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+*/
+/* New styles for the loader */
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: -10%;
+}
+
+.spinner {
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 4px solid #1BB3BE;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loader p {
+  color: #1BB3BE;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.sidebar .upload-section button {
+  --border-color: linear-gradient(-45deg, #1BB3BE, #1DC1C8, #1EAFC0);
+  --border-width: 0.125em;
+  --curve-size: 0.5em;
+  --blur: 30px;
+  --bg: #284F7D;
+  --color: white;
+  background: var(--bg);
+  color: var(--color);
+  cursor: pointer;
+  position: relative;
+  isolation: isolate;
+  display: inline-grid;
+  place-content: center;
+  padding: 10px 20px;
+  font-family: 'Urbanist', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  margin-top: 10px;
+  margin-left: 34%;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+  clip-path: polygon(
+      0% var(--curve-size),
+      var(--curve-size) 0,
+      100% 0,
+      100% calc(100% - var(--curve-size)),
+      calc(100% - var(--curve-size)) 100%,
+      0 100%
+  );
+  transition: background-color 0.3s ease, color 250ms;
+}
+
+.sidebar .upload-section button::after, 
+.sidebar .upload-section button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.sidebar .upload-section button::before {
+  background: var(--border-color);
+  background-size: 300% 300%;
+  animation: move-bg7234 5s ease infinite;
+  z-index: -2;
+}
+
+@keyframes move-bg7234 {
+  0% { background-position: 31% 0%; }
+  50% { background-position: 70% 100%; }
+  100% { background-position: 31% 0%; }
+}
+
+.sidebar .upload-section button::after {
+  background: var(--bg);
+  z-index: -1;
+  clip-path: polygon(
+      var(--border-width) calc(var(--curve-size) + var(--border-width) * 0.5),
+      calc(var(--curve-size) + var(--border-width) * 0.5) var(--border-width),
+      calc(100% - var(--border-width)) var(--border-width),
+      calc(100% - var(--border-width)) calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width)),
+      var(--border-width) calc(100% - var(--border-width))
+  );
+  transition: clip-path 500ms;
+}
+
+.sidebar .upload-section button:where(:hover, :focus)::after {
+  clip-path: polygon(
+      calc(100% - var(--border-width)) calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+      calc(100% - var(--border-width)) var(--border-width),
+      calc(100% - var(--border-width)) var(--border-width),
+      calc(100% - var(--border-width)) calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width)),
+      calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width))
+  );
+  transition: 200ms;
+}
+
+.sidebar .upload-section button:where(:hover, :focus) {
+  color: #fff;
+  background-color: #4b5f76;
+}
+
+.sidebar .upload-section button:active {
+  background-color: #003f7f;
+}
+
+.sidebar .upload-section button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+

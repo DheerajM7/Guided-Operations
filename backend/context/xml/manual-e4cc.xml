@@ -1,0 +1,781 @@
+<manual>
+<page number="1">
+  <title>OPERATING &amp; MAINTENANCE MANUAL</title>
+  <model>MALAHIDE MODEL NO. E4-CC HOT STAMPING PRESS</model>
+  <serial-number>SERIAL NO. 2005N</serial-number>
+  <manufacturer>
+    <name>Malahide Design &amp; Manufacturing Inc.</name>
+    <address>
+      <street>209 Griffith Rd.</street>
+      <city>Stratford</city>
+      <province>Ontario</province>
+      <country>Canada</country>
+      <postal-code>N5A 6S4</postal-code>
+    </address>
+    <contact>
+      <phone-fax>(519) 273 0603</phone-fax>
+      <toll-free>1-800-667-2156</toll-free>
+      <website>www.HotStamping.com</website>
+    </contact>
+  </manufacturer>
+</page>
+
+<page number="2">
+  <table-of-contents>
+    <section number="1">
+      <title>Introduction</title>
+      <subsection number="1.1">Introduction</subsection>
+      <subsection number="1.2">History of the E4-CC</subsection>
+    </section>
+    <section number="2">
+      <title>Technical Specifications</title>
+    </section>
+    <section number="3">
+      <title>Operating Instructions</title>
+      <subsection number="3.1">Control Panel</subsection>
+      <subsection number="3.2">Feeding the Part</subsection>
+      <subsection number="3.3">Feeding the Foil</subsection>
+      <subsection number="3.4">Mounting the Dies</subsection>
+      <subsection number="3.5">Using the X /Y Adjustable Chase</subsection>
+      <subsection number="3.6">Adjusting the Foil Pull</subsection>
+      <subsection number="3.7">Adjusting Pressure</subsection>
+      <subsection number="3.8">Leveling the Head</subsection>
+      <subsection number="3.9">Aligning the Head</subsection>
+      <subsection number="3.10">General Set-Up Comments</subsection>
+    </section>
+    <section number="4">
+      <title>Multi-Color Printing</title>
+    </section>
+    <section number="5">
+      <title>Holographic Foil Feed</title>
+    </section>
+    <section number="6">
+      <title>Maintenance Program</title>
+    </section>
+    <section number="7">
+      <title>Troubleshooting</title>
+    </section>
+    <section number="8">
+      <title>Warranty</title>
+    </section>
+    <section number="9">
+      <title>CE Conformity Certificate</title>
+    </section>
+  </table-of-contents>
+  <addendum>
+    <item number="1">Sensitivity settings for Holofoil Photo Cell</item>
+    <item number="2">Control Panel, internal view</item>
+  </addendum>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="3">
+  <section number="1">INTRODUCTION</section>
+  <content>
+    <paragraph>Thank you for purchasing your new Malahide Model E4-CC Plastic Card Machine! To assist you in obtaining the maximum benefit of this press, we are pleased to offer this manual.</paragraph>
+    <image>
+      <description>The image shows the Malahide Model E4-CC Plastic Card Machine. It is a blue, box-shaped machine with a metal top section containing various components. The machine is mounted on a black stand with a wooden platform. The machine appears to be designed for industrial use, with various mechanical parts visible on its top.</description>
+    </image>
+    <paragraph>Please, begin by reading the manual in its entirety to obtain a general overview of the E4's features and functions prior to setting up and operating the press for the first time.</paragraph>
+    <paragraph>It's a good idea to run your machine at a reduced speed while you are becoming familiar with its features and components.</paragraph>
+    <paragraph>Please note that not all foils will perform well at top speeds, or on your specific substrate. Different foils work best on different materials, so experiment with different makes and types of foil to find those best suited to your application. Remember - the least expensive foils are not always the most cost effective.</paragraph>
+  </content>
+</page>
+
+<page number="4">
+  <section number="1.1">Support Contacts</section>
+  <content>
+    <paragraph>Everyone at Malahide is dedicated to building the best machine possible, and to keeping your new machine operational throughout the many years you will own it.</paragraph>
+    <paragraph>Should you require service or assistance, we are available Monday to Friday from 9:00 a.m. to 5:00 p.m. EST at :</paragraph>
+    <contact-info>
+      <phone>1-800-667-2156 or 1-800-867-5077</phone>
+      <tel>1-519-273-0603 ( Tel. )</tel>
+      <fax>1-519-273-1773 ( Fax )</fax>
+      <email>paul@malahide.com ( E-Mail )</email>
+      <website>www.HotStamping.com ( Internet )</website>
+    </contact-info>
+  </content>
+
+  <section number="1.2">History of the E4-CC</section>
+  <content>
+    <paragraph>The E-Series Plastic Card Machine was first introduced in 1997 as the Model E2-CC. A 5-ton hot stamp press, the E2-CC was designed to add foil stamped graphics and sequential numbers to CR-80 plastic cards.</paragraph>
+    <paragraph>Based on Malahide's core E-Series technology, the E2-CC features all of Malahide's standard E-Series attributes including the 4-Post CAM design, all-electric operation, even and accurate dispersion of pressure, and an economical purchase price.</paragraph>
+    <paragraph>In 2003, the CC design was given a permanent upgrade to Malahide's heavier E4 chassis, thus creating today's E4-CC. 25% heavier than the E2 frame, the E4 frame generates a higher pressure output of 8 tons. Lending even more strength and stability to the stamping area, this extra power enables the E4 to undertake more challenging tasks like holograms and broad-area graphics.</paragraph>
+    <paragraph>Now in its 7th year of production, the 2005 E4-CC incorporates the feedback, refinements and real-world lessons we have accumulated from working with and listening to our customers. A machine we're proud to affix our name to, we wish you the very best of success with your new E4-CC.</paragraph>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="5">
+  <section number="2">TECHNICAL SPECIFICATIONS</section>
+  <content>
+    <specifications>
+      <model>E4-CC</model>
+      <pressure-rating>8 tons</pressure-rating>
+      <print-area>2" x 3.5" (or as determined)</print-area>
+      <card-thickness>20 ~ 30 mils</card-thickness>
+      <card-dimensions>ISO CR-80</card-dimensions>
+      <power>220 Volts, 5 Amps</power>
+      <dimensions>24"W x 60"L x 30"H</dimensions>
+      <weight>
+        <uncrated>480 lbs.</uncrated>
+        <crated>550 lbs.</crated>
+      </weight>
+    </specifications>
+  </content>
+
+  <section number="3">OPERATING INSTRUCTIONS</section>
+  <content>
+    <subsection number="3.1">Control Panel</subsection>
+    <paragraph>The switches and controls located on the press control panel are described as follows:</paragraph>
+    <controls>
+      <control>
+        <name>POWER</name>
+        <description>"ON/OFF" supplies power to the heat control, counter, jog button, start button, and stop button.</description>
+      </control>
+      <control>
+        <name>JOG</name>
+        <description>Machine will run as long as button is pressed. This button is used during the set-up of the press. Caution - be sure not to stop the press with the head down. This could damage the die, the foil, and the part.</description>
+      </control>
+      <control>
+        <name>REVERSE</name>
+        <description>Located to the left of the jog button, the reverse switch is a small red button. Press it and the jog button at the same time to reverse the cycle of the press. It is used when the press has been stalled due to too much pressure, or when a part has been 'jammed'.</description>
+      </control>
+    </controls>
+  </content>
+</page>
+
+<page number="6">
+  <content>
+    <controls>
+      <control>
+        <name>RUN / STOP</name>
+        <description>Press "RUN" to start the motor. Press and hold "STOP" to stop the motor.</description>
+      </control>
+      <control>
+        <name>MOTOR SPEED</name>
+        <description>Turn clockwise to increase speed.</description>
+      </control>
+      <control>
+        <name>BATCH COUNT</name>
+        <description>Set number of parts to be run using the small buttons on the counter. The machine will stop after the number of parts set have been printed. Never set the batch counter to '0'.</description>
+      </control>
+      <control>
+        <name>HEAT CONTROL</name>
+        <description>Set the desired head temperature by turning the dial to the desired heat setting. When the red light on the heater dial goes off, the set temperature has been reached.
+
+The temperature setting is usually higher than that used on slower machines. It may be necessary to increase temperature as the speed of the machine is increased. Most applications run at temperatures of between 225 ~ 300 F.</description>
+      </control>
+    </controls>
+    <image>
+      <description>The image shows the control panel of the Malahide hot stamping press. It is a blue-colored panel with various buttons and dials. From left to right, there appears to be a large silver knob (likely for power or motor control), a green button (possibly the JOG button), a small red button (likely the REVERSE button), a digital display (probably the batch counter), and a dial with a red indicator light (presumably the heat control). The panel is labeled "MALAHIDE HOT STAMPING PRESSES" and includes CE certification markings.</description>
+    </image>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="7">
+  <section number="3.2">Feeding the Card</section>
+  <content>
+    <paragraph>Cards are fed from a front stack feed, through the gate and beneath a set of tracks to be printed. Both the tracks and the stack feed are one integral part.</paragraph>
+    <paragraph>Adjust the tracks to fit your card by first loosening them. To do this, take an allen key, insert it in the hole at the top of the tightening rods, and turn.</paragraph>
+    <paragraph>Using the card to be printed as a guide, adjust the tracks appropriately ensuring that the part slips freely through both the stack feed and the tracks. Tighten the rods, and test using the jog button. Ensure that the cards feed freely from the stack and right through the tracks to the discharge.</paragraph>
+    <note>If you change the thickness of a card, it may be necessary to raise or lower the gate on the infeed. The gate should be set at 1.5 times the height of the card.</note>
+  </content>
+
+  <section number="3.3">Feeding the Foil</section>
+  <content>
+    <steps>
+      <step>a) Begin by placing a collar and disk on the foil unwind bar.</step>
+      <step>b) Next place the foil roll on the unwind bar, followed by a second disk, spring, and collar with handle. These parts should now be in the following order: Collar / Disk / Foil / Disk / Spring / Collar.</step>
+    </steps>
+    <image>
+      <description>The image shows a close-up view of the foil feed mechanism. A bright red foil roll is visible in the center, mounted on a metal bar. On either side of the foil roll are silver-colored disks. The entire assembly is mounted on what appears to be a blue-colored machine base.</description>
+    </image>
+    <paragraph>Compress the spring so that there is just enough tension on the roll to keep the foil from unraveling. Position the guides to the left or right to ensure that the foil runs evenly beneath the die.</paragraph>
+  </content>
+</page>
+
+<page number="8">
+  <content>
+    <steps>
+      <step>c) Unwind a 6" length of foil such that it comes off the top of the roll and feeds through the machine, shiny-side up.</step>
+      <step>b) Route the foil under the stripper bar. There is one stripper bar on the front of the machine.</step>
+      <step>c) Route the foil under the knurled drum at the back of the machine, and up between it and the pinch roller. ( Note : If your machine is equipped with the hologram foil feed, first set the clutch switch on the control box to 'off')</step>
+      <step>d) Continue over the top of the pinch roller and onto the rewind roller. Be sure to route the foil onto the underside of the foil rewind roller.</step>
+    </steps>
+    <image>
+      <description>The image shows a close-up view of the foil routing mechanism. A red foil can be seen threaded through various rollers and bars of the machine. The foil path is clearly visible, going under and over different parts of the mechanism. A label reading "Manual Advance" is visible in red text at the bottom left of the image.</description>
+    </image>
+    <paragraph>You might use an empty foil core to capture the used foil. Achieve a clean and even rewind by ensuring the core doesn't slip on the rewind roller. A piece of masking tape on the roller will help.</paragraph>
+    <paragraph>There are two knobs on either side of the pinch roller that enable you to adjust the pink roller's pressure. Be sure to maintain an even pressure on either side of the foil. The knobs should be tightened lightly and evenly. Excessive pressure will work against you.</paragraph>
+    <step>e) After several cycles, the foil will follow find it's natural path through the Machine. No further positioning should be required.</step>
+  </content>
+
+  <section number="3.4">Mounting the Dies</section>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="9">
+  <content>
+    <paragraph>The E4-CC is equipped with a precision X / Y adjustable chase. Dies are mounted onto the chase with 6 @ 6-32 flat head screws. Counter-sunk holes must be drilled into the body of the die to facilitate mounting. The diagram below depicts hole location.</paragraph>
+    
+    <image>
+      <description>A technical diagram titled "HOLE LOCATION FOR E2-CC DIE HOLDER" is shown. The diagram depicts a rectangular shape with dimensions and hole locations marked. The dimensions are: 4.000 inches in total width, with 3.875 inches between holes; 2.500 inches in height; 1.250 inches from the bottom to the first set of holes; 0.500 inches between hole sets; and 0.125 inches from the edge to the holes. The diagram indicates "HOLES FOR #6-32 FLAT HEAD SCREWS PICK ANY TWO".</description>
+    </image>
+    
+    <image>
+      <description>A photograph shows a die holder mounted in what appears to be a foil stamping machine. The die holder is a metallic rectangular plate with a grid-like pattern visible on its surface. It is secured in place by two yellow clamps on either side. The surrounding machine parts are visible, including some green components.</description>
+    </image>
+  </content>
+</page>
+
+<page number="10">
+  <section>Standard Dies</section>
+  <content>
+    <paragraph>The standard die for the E4-CC is an 11-point plate made from magnesium or copper. The E4-CC cannot accept dies that are mounted 'type-high' and also should not be used with printer's type.</paragraph>
+  </content>
+
+  <section>Hologram Dies</section>
+  <content>
+    <paragraph>Hologram dies have two distinct features :</paragraph>
+    <list>
+      <item>1) The die is domed / crowned. The center of the die is slightly higher than the exterior portions of the die. The goal is that as the die comes down, air is forced away from the center preventing bubbles from forming in the middle.</item>
+      <item>2) They are highly polished to help create a mirror-like finish.</item>
+    </list>
+  </content>
+
+  <section number="3.5">Using the X / Y Adjustable Chase</section>
+  <content>
+    <image>
+      <description>Two photographs of the X / Y adjustable chase are shown side by side. The left image shows the chase from a front angle, while the right image shows it from a side angle. Both images display a metallic mechanism with adjustment screws visible.</description>
+    </image>
+    
+    <paragraph>The X / Y adjustable chase enables the operator to make small adjustments to the die placement on the card.</paragraph>
+    
+    <paragraph>East ~ West adjustments are made by slacking the screw on one side, and then tightening the screw on the opposite side.</paragraph>
+    
+    <paragraph>North ~ South adjustments are made by slacking both the side screws, and then turning the embedded screw.</paragraph>
+    
+    <paragraph>Be especially sure when adjusting the chase that you first unlock the appropriate screw. Forcing the chase to adjust while locked will cause rail and thread damage.</paragraph>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="11">
+  <section number="3.6">Adjusting the Foil Pull</section>
+  <content>
+    <paragraph>The E4-CC is able to advance foil in adjustable increments from 1 ~ 3.5 inches. Adjust the amount of foil fed using the foil feed crank located inside the access door on the right side of the press (see Figure 1 for location).</paragraph>
+    
+    <paragraph>To adjust the foil pull, loosen the locking nut with an allen key, then turn the black knob one way or the other for either more or less foil. Watch the slide in the middle of the crank. When the slide is closest to the black knob, the foil is feeding at its' minimum. As you turn the black handle, observe that the slide draws away from the knob. The further down the crank the slide moves, the longer the foil pull will be.</paragraph>
+    
+    <image>
+      <description>Two side-by-side photographs show the foil pull adjustment mechanism. In both images, a circular device with a central black knob is visible. The left image shows the mechanism with the slide closer to the black knob, while the right image shows the slide further away from the knob. Pink arrows point to the relevant parts in each image.</description>
+    </image>
+  </content>
+
+  <section number="3.7">Adjusting Pressure</section>
+  <content>
+    <paragraph>The E4 is rated at 8 tons, more than most any printing job will need. More important than the amount of pressure, is the precise application of pressure. Only increase pressure when it is clearly needed, and then only by small increments. Pressure is adjusted by increasing or decreasing the distance between the typeface and the part. It can be done in two ways:</paragraph>
+    
+    <list>
+      <item>a) With the head leveling screws ( see Leveling the Head )</item>
+    </list>
+  </content>
+</page>
+
+<page number="12">
+  <content>
+    <list>
+      <item>b) By adjusting the "capstan". This is a ring with holes in it, on the main post, located beneath the foil feed crank inside the panel on the right side of the press.</item>
+    </list>
+    
+    <image>
+      <description>A close-up photograph of the capstan mechanism. The image shows a metal ring with holes around its circumference. A pink arrow points to the capstan. A chain or belt is visible running over the capstan.</description>
+    </image>
+    
+    <paragraph>Insert the appropriate sized Allen key or equivalent tool into the nearest hole and turn the capstan to adjust pressure. Turning the ring to the right increases pressure, turning the ring to the left reduces pressure.</paragraph>
+    
+    <image>
+      <description>Another close-up photograph of the capstan mechanism, this time showing an Allen key inserted into one of the holes of the capstan. A pink arrow points to the Allen key, demonstrating how to adjust the pressure.</description>
+    </image>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="13">
+  <content>
+    <paragraph>The capstan features a capstan locking screw. This screw does not have to be tightened for the proper operation of the press, however, in the unlikely event that you experience a gradual change in pressure, the capstan locking screw should be tightened to lock the pressure position.</paragraph>
+
+    <list>
+      <item>c) If you apply excessive amounts of pressure to the head, the press may stalls. To avoid damage to the motor control and fuse, turn the main power off immediately. Then, reach inside the access door, grasp the drive belt with your hand, and pull down to raise the head manually. Before turning the machine back on, reduce pressure at the capstan. After closing the access door, turn the power back on and test pressure again.</item>
+    </list>
+  </content>
+
+  <section number="3.8">Leveling the Head</section>
+  <content>
+    <paragraph>Leveling adjustments may be required to correct for tool and die errors, part defects, or small perfections to the print. Such adjustments should be made only in very small increments.</paragraph>
+
+    <paragraph>There are four (4) leveling screws on top of the print head and one (1) centre locking screw. The centre locking screw should not be adjusted during leveling adjustments. It acts as the fulcrum point for any adjustments that you make.</paragraph>
+
+    <image>
+      <description>A close-up photograph of the top of the print head. It shows multiple hex nuts or screws arranged in a pattern. Four pink arrows point to the outer screws, which are the leveling screws. In the center, there's a black circular object, presumably the centre locking screw.</description>
+    </image>
+
+    <paragraph>Examples of how to adjust level are as follows:</paragraph>
+
+    <list>
+      <item>> To increase pressure on a particular corner, first loosen the leveling screw at the diagonally opposite corner from the one you wish to tighten, then tighten the desired screw by the same amount that you loosened the opposite screw.</item>
+    </list>
+  </content>
+</page>
+
+<page number="14">
+  <content>
+    <list>
+      <item>> To increase pressure on a particular end or side, first loosen the two leveling screws at the opposite end of the head, and then tighten the desired screws by the same amount as you loosened the opposite screws.</item>
+    </list>
+
+    <section number="3.9">Aligning the Head</section>
+    <paragraph>If the print is not parallel to the card edge, and the card is feeding straight across the table, the die has most likely been cut off square. To avoid having to re-make the die, the E4-CC's head can be rotated a few degrees to compensate.</paragraph>
+
+    <paragraph>To do this, loosen the centre locking screw on the head and turn the knob on the front of the chase to adjust head alignment. Be sure to re-tighten the centre locking screw before starting to print again.</paragraph>
+
+    <image>
+      <description>Another photograph of the print head, this time showing a side view. The centre locking screw is prominently visible in the center, with a pink arrow pointing to it. The leveling screws can also be seen around it.</description>
+    </image>
+
+    <section number="3.10">General Set-Up Comments</section>
+    <paragraph>The E4 is a user-friendly press. In all instances, a methodic and dispassionate approach to the machine will yield best results. The following list details items to avoid when setting-up the press:</paragraph>
+
+    <list>
+      <item>Uneven pressure on the die face. The four (4) leveling screws on top of the print head will compensate for MINOR variations in the type or dies, and once set should require infrequent adjustment (see 3.8 - Leveling the Head).</item>
+      <item>Excessive pressure on the feed rolls. The correct pressure is set when there is about 0.010" (the thickness of a playing card) compression on the pinch roller.</item>
+    </list>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="15">
+  <content>
+    <paragraph>Foil sticking to the part. This is the most common cause of bad registration. If the foil is stuck tight to the part, the feed roll will slip when it starts to pull the part. If the temperature and pressure are properly set, change the foil.</paragraph>
+
+    <section number="4">MULTI-COLOUR PRINTING</section>
+    <paragraph>Multi-color prints can be achieved with relative ease. The method runs as follows:</paragraph>
+
+    <list>
+      <item>a) Using color separated dies, run all of the parts for the first color and then stack them into trays. Ensure that all the parts are stacked face-up and are oriented the same way.</item>
+      <item>b) Change the die and foil over to the next color. Stack the parts in the front stacker ready for the next color application.</item>
+      <item>c) Test a few parts to check for registration. Use the X / Y adjustable chase to perfect registration.</item>
+    </list>
+
+    <section number="5">Holographic Foil Feed</section>
+    <paragraph>The E4-CC's optional hologram foil feed enables the machine to register true holograms prior to stamping. This application is most commonly used when stamping security holograms onto credit cards and government ID's.</paragraph>
+
+    <paragraph>The system works through a combination of the mechanical foil feed and a supplemental electric clutch. A photocell monitors the foil web as it passes through the machine and looks for registration marks. When the mark is identified, the foil cell trips the electronic clutch, immediately stopping the advance of the foil.</paragraph>
+
+    <paragraph>While monitoring the foil, the photocell looks for light being reflected back at it. They the registration mark is not present, light is reflected back and the photocell does nothing. As the eye-mark advances beneath the photocell, light stops being reflected back, thus activating the mechanism. To avoid misfires, it is important that the foil be held taught as it passes through the printing area.</paragraph>
+
+    <paragraph>Setup the Hologram foil feed using the following steps :</paragraph>
+
+    <list>
+      <item>1) Turn the power on, and thread the holographic foil in the same way as you would regular foil.</item>
+    </list>
+  </content>
+</page>
+
+<page number="16">
+  <content>
+    <list>
+      <item>2) Start with photocell turned off, clutch turned on (flip-switches on the panel)</item>
+      <item>3) Using only the mechanical foil pull, hit the 'jog' button to cycle the machine once. Look to see where the die lands in relation to the eyemark.</item>
+      <item>4) Now adjust the mechanical foil feed to pull the foil 2 or 3 mm past the place where the die landed in step 2. The mechanical pull must be more than the photo pull or the system will not work.</item>
+      <item>5) Now turn-on the photocell by flicking the switch on the panel.</item>
+      <item>6) Aim the photo-eye at the foil so that you see the red light shining directly on the eyemark.</item>
+      <item>7) Push and hold the 'Teach' button on the photocell box until it is solid green.</item>
+      <item>8) Next, manually turn the foil roller to move the eyemark out of sight of the photocell (watch for the red light). Push and hold 'teach' again until it goes solid green.</item>
+      <item>9) Switch the sensor to 'run' and make sure that it is set to 'dark-on'.</item>
+      <item>10) Move the foil ahead until you see the orange light comes on.</item>
+      <item>11) Press run on the control panel.</item>
+    </list>
+
+    <image>
+      <description>A photograph showing part of a machine, likely the E4-CC printer. The image displays a control panel with various buttons and switches. Below the control panel, there's a strip of holographic foil visible, showing multiple holographic images in a row. These appear to be stylized figures or symbols in different colors. The machine's mechanical components, including metal rollers and bars, are also visible.</description>
+    </image>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="17">
+  <content>
+    <section number="6">Maintenance Program</section>
+    
+    <paragraph>The E4-CC is a remarkably easy machine to maintain.</paragraph>
+    
+    <paragraph>Keep the machine clean !</paragraph>
+    
+    <paragraph>The best thing you can do to prolong the life of your machine and maintain a high print quality is to keep the machine clean. Specifically, we suggest that the press gets blown-off with compressed air once weekly. Watch for a build-up of foil 'flake' (little bits of foil that flake off the foil roll). Excessive build-ups of flake can work their way into the control box and cause electrical issues in worst-case scenarios.</paragraph>
+    
+    <paragraph>Also watch for any plastic shards from the cards. If these get between the foil and card during stamping they will cause an imperfect print.</paragraph>
+    
+    <paragraph>Be sure to also wipe the bottom of the holographic eye to ensure no debris is blocking its' sight.</paragraph>
+    
+    <section>Lubrication.</section>
+    
+    <subsection>Monthly</subsection>
+    
+    <paragraph>Lubricate the following places with 1 or 2 drops of light machine oil (sewing machine oil is perfect)</paragraph>
+    
+    <list>
+      <item>1) The 4 posts that the print head travels up and down on</item>
+    </list>
+    
+    <image>
+      <description>A close-up photograph of part of the E4-CC machine. The image shows a metal frame with four vertical posts. In the center, there's a horizontal bar with various mechanical components. The surface below appears to be a metallic plate with various holes and indentations. Pink or red markers are visible on some parts, likely indicating areas for lubrication.</description>
+    </image>
+  </content>
+</page>
+
+<page number="18">
+  <content>
+    <list>
+      <item>2) The bearing that connects the foil chain to the foil crank</item>
+    </list>
+    
+    <image>
+      <description>A close-up photograph of another part of the E4-CC machine. The image shows a mechanical assembly with a central circular component, likely the bearing mentioned. There's a blue ring visible, and a metal arm extends downward with a pink marker on it. The assembly is surrounded by metal framing and other mechanical parts.</description>
+    </image>
+    
+    <list>
+      <item>3) Remove the print head pivot caps and place 1 drop of oil down this hole.</item>
+    </list>
+    
+    <image>
+      <description>A top-down view of part of the E4-CC machine. The image shows a metal plate with several screws and holes visible. Two pink markers are visible on opposite sides of the plate, likely indicating the locations of the print head pivot caps mentioned. Below the plate, other mechanical components of the machine can be seen.</description>
+    </image>
+    
+    <list>
+      <item>4) Lubricate the slide screw and locking nuts.</item>
+    </list>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="19">
+  <content>
+    <image>
+      <description>A close-up photograph of a part of the E4-CC machine. The image shows a metal component with various mechanical parts. Two red squares highlight specific areas of the machine, likely indicating points for lubrication or maintenance.</description>
+    </image>
+    
+    <maintenance_schedule>
+      <interval>6 Months</interval>
+      <instruction>Place a drop or two of oil on the sprocket at the top of the foil pull roller</instruction>
+      
+      <interval>Yearly</interval>
+      <instruction>Take an oil soaked cloth and wipe the foil pull chain.0</instruction>
+    </maintenance_schedule>
+    
+    <section number="7">TROUBLESHOOTING</section>
+    
+    <subsection>PRINT QUALITY</subsection>
+    
+    <paragraph>Hot stamping is a combination of 3 factors : time, temperature, and pressure. By adjusting any of these 3 elements, one can affect the print quality.</paragraph>
+    
+    <troubleshooting>
+      <symptom>The foil is not transferring completely, or is uneven.</symptom>
+      <fix>Increase the temperature.</fix>
+      
+      <symptom>The foil has bubbles in the middle.</symptom>
+      <fix>Decrease the temperature.</fix>
+    </troubleshooting>
+  </content>
+</page>
+
+<page number="20">
+  <content>
+    <troubleshooting>
+      <symptom>The print is heavy on one side, light on the other.</symptom>
+      <fix>Level the print head.</fix>
+      
+      <symptom>The foil is fuzzy on the outside.</symptom>
+      <fix>Decrease the temperature</fix>
+      
+      <symptom>The foil sticks to the card.</symptom>
+      <fix>
+        Decrease pressure.
+        Check to ensure a foil match with the product being stamped.
+      </fix>
+      
+      <symptom>Poor Registration</symptom>
+      <cause>
+        The foil may be sticking to the card.
+        Worn clutch. Replace clutch assembly - contact factory
+      </cause>
+    </troubleshooting>
+    
+    <subsection>PRESS CYCLE</subsection>
+    
+    <troubleshooting>
+      <symptom>Stuck at bottom of cycle, I hear a buzzing sound.</symptom>
+      <cause>There is too much pressure on the print head.</cause>
+      <fix>Relieve pressure by raising the head manually, or by using the optional reverse button.</fix>
+      
+      <symptom>Press stalled because of excessive pressure and will not restart.</symptom>
+      <fix>Check the motor control fuse.</fix>
+      <note>In extreme overload conditions, the crystal relay may also fail. This failure protects the motor, but the relay will have to be replaced.</note>
+    </troubleshooting>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="21">
+  <content>
+    <troubleshooting>
+      <symptom>The jog or start button must be held down to get the machine to run continuously</symptom>
+      <fix>
+        <step>1. Ensure the 'set' number of the counter is not set to zero.</step>
+        <step>2. Press reset button on the counter.</step>
+        <step>3. Tap and / or press the stop button sharply.</step>
+        <step>4. Replace the stop button.</step>
+        <step>5. Check to ensure the door and top-cover are closed. Also check to ensure that the micro-switches on the doors and top cover are tripped. You should hear a quiet 'click' when the switches are tripped. If you do not hear this click, bend the metal arm of the microswitch out with your thumb and forefinger.</step>
+      </fix>
+    </troubleshooting>
+    
+    <image>
+      <description>Two side-by-side images of machine components. The left image shows a blue component with a red indicator, possibly a counter or control panel. The right image displays a black microswitch mounted on a metal surface with two small white lights visible.</description>
+    </image>
+    
+    <troubleshooting>
+      <symptom>Machine does not run, I hear a clicking sound when I press the 'start button'.</symptom>
+      <fix>Replace the 'crystal relay'.</fix>
+    </troubleshooting>
+    
+    <troubleshooting>
+      <symptom>Machine does not run at all.</symptom>
+      <fix>
+        <step>1. Check the master fuse.</step>
+        <step>2. Check the fuse on the motor control board.</step>
+        <step>3. Replace the motor control board.</step>
+      </fix>
+    </troubleshooting>
+  </content>
+</page>
+
+<page number="22">
+  <content>
+    <section>HEAT CONTROL</section>
+    
+    <troubleshooting>
+      <symptom>Head Gets Too Hot, Red Light on Heat Control Illuminates</symptom>
+      <cause>There is a short in the brown thermocouple wire, probably where the wire goes into the junction box on the side of the head.</cause>
+      <fix>
+        Repair or replace thermocouple wire.
+        
+        Find the break and cut the wire, strip the red and white wires inside the brown cover about ¾", twist together and replace under the screw on the head. If the wire has to be replaced the white wire always goes onto terminal one (1) and the red wire goes onto terminal two (2) on the plug on the back of the instrument. The wire is 'J' type thermo-couple wire if you if sourcing locally.
+        
+        If there is no break in the wire and the light still does not come on, look again for the break in the wire or a loose screw terminal.
+      </fix>
+    </troubleshooting>
+    
+    <troubleshooting>
+      <symptom>Head Gets Too Hot, Red Light on Heat Control does not illumiate</symptom>
+      <cause>The black relay located to the far right with black wires going to it has probably failed.</cause>
+      <fix>
+        Replace the relay. When the light comes on you should hear a click from the black relay on the right inside the consol. If not check the wires on the relay, if it still does not work replace relay.
+        
+        If relay clicks, check fuse beside the relay, wiring to heater and then the heater cartridge.
+        
+        Note! In 25 years it has never been the heat control.
+      </fix>
+    </troubleshooting>
+    
+    <troubleshooting>
+      <symptom>Head does not heat up.</symptom>
+      <fix>
+        Does red light come on? If YES, check continuity in cartridge heater, if good, check heater relay as above.
+        
+        If NO, look for break in the brown thermocouple wire, probably where the wire goes into the junction box on the side of the head.
+      </fix>
+    </troubleshooting>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="23">
+  <content>
+    <section>CARD FEEDING</section>
+    
+    <troubleshooting>
+      <symptom>Cards are not feeding from the stack.</symptom>
+      <fix>
+        <step>1. Ensure that the track is free of debris.</step>
+        <step>2. The break on the machine can</step>
+      </fix>
+    </troubleshooting>
+    
+    <image>
+      <description>A close-up photograph of a machine component, likely part of the card feeding mechanism. The image shows two cream-colored vertical structures with pink-colored arrow-shaped indicators pointing inwards. There are metal rods and other mechanical parts visible, suggesting this is an internal view of the card feeding system.</description>
+    </image>
+  </content>
+</page>
+
+<page number="24">
+  <content>
+    <section>8. Warranty</section>
+    
+    <company_info>
+      <name>MALAHIDE DESIGN &amp; MANUFACTURING INC.</name>
+      <address>209 GRIFFITH ROAD</address>
+      <city>STRATFORD</city>
+      <province>ONTARIO</province>
+      <country>CANADA</country>
+      <postal_code>N5A 6S4</postal_code>
+      <phone>Tel: (519) 273-0603</phone>
+    </company_info>
+    
+    <warranty_terms>
+      <header>TERMS OF SALE &amp; WARRANTY AGREEMENT : FORMS PART OF ORIGINAL QUOTATION</header>
+      
+      <section>
+        <title>TIME:</title>
+        <content>Shipping dates are approximate and dates of shipment may be extended.</content>
+      </section>
+      
+      <section>
+        <title>DELAYS BEYOND CONTROL:</title>
+        <content>The company shall not be liable for loss, damage or delay resulting from causes beyond its' control; nor because the machinery is not adapted to the particular purpose of the purchaser. Receipt of the apparatus by the purchaser upon its' delivery shall constitute a waiver of all claims for loss or damage.</content>
+      </section>
+      
+      <section>
+        <title>INSTALLATION CHARGE:</title>
+        <content>The company will furnish instructions for the use of the purchaser in installing and/or operating the apparatus. If the purchaser requests the company to supply a person to supervise this work, it is on the understanding that the company will charge for such services at the company's prevailing rate per day, plus any travel expenses while he is absent from Stratford, Ontario, unless otherwise specified within this quotation.</content>
+      </section>
+      
+      <section>
+        <title>DRAWINGS:</title>
+        <content>Detailed or shop working drawings are in most cases the result of years of research and experimentation and for this reason, they cannot be furnished to the purchaser</content>
+      </section>
+      
+      <section>
+        <title>LIMIT RESPONSIBILITY TO SPECIFICATIONS:</title>
+        <content>The company warrants that the apparatus to be delivered shall be of the kind and quality described in the specifications and will be suitable for performing the work therein described and no other warranty or condition shall be implied. If any failure to comply with the specifications appears within the warranty period from date of shipment, the purchaser shall notify the company thereof immediately in writing. The company shall thereupon correct the defect by repair or replacement, F.O.B. the factory of the defective part. No allowance will be granted for any repairs or alterations made by the purchaser without the company's written consent, or for damage caused (in our opinion) by misuse, malicious mischief or operator error. The company reserves the right to change the product for service for covered by the warranty. The liability of the company arising out of the supplying of said apparatus, or its use, shall not in any case exceed the cost of correcting defects in the apparatus as herein provided and upon the expiration of said warranty period, all such liability shall terminate. Malahide stipulates that it cannot be held liable for issues regarding foil performance or substrate choice.</content>
+      </section>
+      
+      <section>
+        <title>SHIPPING:</title>
+        <content>Prices are quoted F.O.B. Stratford, Ontario, unless otherwise specified in the quotation.</content>
+      </section>
+      
+      <section>
+        <title>SHIPPING DAMAGES:</title>
+        <content>When shipped F.O.B. Stratford, Ontario, Malahide specifies that it cannot be held liable for any damages caused to our equipment while in transit.</content>
+      </section>
+      
+      <section>
+        <title>CUSTOMIZATION:</title>
+        <content>Customization of specific parts, functions, or feeding systems are provided at an additional charge, Unless specified within this sales agreement, Malahide will deliver a standardized version of the model ordered.</content>
+      </section>
+      
+      <section>
+        <title>TIME TO PROFICIENCY:</title>
+        <content>Expect and allow that it will take a period of time to reach full proficiency in the operation of any new piece of equipment.</content>
+      </section>
+      
+      <section>
+        <title>SAMPLES:</title>
+        <content>Sample parts supplied for tooling and testing the equipment must be of production quality, as equipment will be built and calibrated to handle these specific parts. Any deviations from samples will result in additional cost to the purchaser if adjustments are necessary. Sufficient parts must be supplied pre-paid, to fully test equipment prior to delivery.</content>
+      </section>
+    </warranty_terms>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="25">
+  <content>
+    <section>ENVIRONMENTAL CONDITIONS</section>
+    <paragraph>Working conditions on the customer's premises can definitely have an effect on the proper operation of any equipment. These conditions, i.e. general housekeeping, fluctuating voltages, oil, chips, defective parts, foreign material, etc., shall be the sole responsibility of the customer and in no way shall Malahide Design &amp; Manufacturing Inc. be held liable.</paragraph>
+
+    <section>TERMS AS TO PAYMENT:</section>
+    <terms>
+      <item>(a) The amount of the sale price for all equipment supplied under this contract along with all charges for installation thereof shall be due and payable on delivery, unless otherwise specified within the quotation.</item>
+      <item>(b) A service charge of two percent (2%) per month applies to all balances outstanding beyond thirty days.</item>
+      <item>(c) Payments on account shall be applied firstly against service charges; secondly against installation or alteration charges; and thirdly against the price of equipment sold hereunder.</item>
+      <item>(d) Until the entire contract price is paid in full, the goods described on the face side of this contract shall be at the purchaser's risk and ownership thereof shall remain in the seller.</item>
+      <item>(e) Should the purchaser default on any payment under this contract, or if any attempt by made to remove the equipment from the premises herein described without the seller's consent in writing, or if the purchaser is in breach of any covenant contained herein, the entire balance under this contract shall become immediately due and payable at the option of the seller and the seller shall be at liberty without any previous notice or demand or legal process, to enter the premises wherein the said equipment is located and, subject to the provisions of The Consumer Protection Act, or any other act passed in amendment thereof, or substitution thereof, repossess, remove, carry away and resell the same and apply the proceeds on account of the contract hereunder, after deducting all costs of taking possession or costs of resale, or the seller may at his option repossess the said goods subject as aforesaid and retain as a rental charge all monies paid by the purchaser under this contract.</item>
+    </terms>
+    <paragraph>On the removal of the said equipment by the seller under subparagraph (e) herein, the seller shall not be liable for damages in any way related to such removal.</paragraph>
+
+    <section>ACCEPTANCE BY MALAHIDE:</section>
+    <paragraph>This quotation is void unless accepted within thirty (30) days from date hereof. If this quotation is accepted by the purchaser, it shall constitute an order on the part of the purchaser, but will not become binding on the part of the company until it is approved by an executive officer of the company at the home office in Stratford, Ontario.</paragraph>
+
+    <section>ACCEPTANCE BY CLIENT:</section>
+    <paragraph>Malahide stipulates that all these terms of sale shall be deemed to be valid and active should the customer proceed with their order. Such an order shall be deemed a confirming action of this quotation and warranty</paragraph>
+
+    <section>SUPREMACY OF TERMS:</section>
+    <paragraph>Malahide stipulates that in all cases, these terms and conditions will supersede any and all alternate terms provided by any third-party company, such as the customer or a leasing agency.</paragraph>
+
+    <section>TAXES:</section>
+    <paragraph>Any applicable taxes either import, federal or state/provincial shall be extra to quoted price, to be paid by the purchaser.</paragraph>
+
+    <section>CANCELLATION:</section>
+    <paragraph>Orders based on this quotation will be accepted with the express understanding that in the event of a request to cancel or postpone any part of this order, the customer will pay the following cost:</paragraph>
+    <terms>
+      <item>(a) Work in process that is less than 30 days from completion will be paid for in full and shipments accepted.</item>
+      <item>(b) Any order for which raw materials have already been ordered by has yet to reach the manufacturing state will be paid for on the basis of our full cost plus 15%.</item>
+    </terms>
+
+    <section>CHOICE OF LAW/VENUE</section>
+    <paragraph>This agreement shall be construed and enforced in accordance with the laws of the Courts of Ontario, Canada, and the venue for any action, dispute or proceeding with respect to this agreement shall be Perth County, Ontario, Canada.</paragraph>
+  </content>
+</page>
+
+<page number="26">
+  <content>
+    <section>9. CE Conformity Certificate</section>
+
+    <image>
+      <description>The image shows a CE Conformity Certificate for Malahide Design &amp; Manufacturing Inc. It includes the company logo, which is a circle with the word "MALAHIDE" and "DESIGN &amp; MANUFACTURING INC." The certificate contains the company's address, contact information, and the CE mark with the year 2005. It's a Declaration of Conformity dated June 15, 2005, stating that their product complies with Essential Health and Safety Requirements of the Machinery Directive and Electrical Equipment Directive. The product described is a Malahide Model E4-CC Plastic Card Machine with Serial #: 2005N. The document is signed by Paul Birch, who is listed as the Sales Manager and Responsible Person.</description>
+    </image>
+  </content>
+</page>Continuing the XML representation based on the content of the provided images:
+
+<page number="27">
+  <content>
+    <section>Addendum # 1.</section>
+    <subsection>Sensitivity setting</subsection>
+    <procedure>
+      <step>1. Set the mode selector switch to the TEACH position.</step>
+      <step>2. Place a work sample at a specified position and press the teaching button (first time).</step>
+      <image>
+        <description>The image shows three diagrams: 
+        1) A light interrupted setup with two components and a line between them.
+        2) A base with a marking on it and an object above labeled "Marking".
+        3) A component with a line next to it.</description>
+      </image>
+      <note>
+        <item>Teaching indicator···Lights up in red.</item>
+        <item>Buzzer (built-in)···Beeps (once).</item>
+      </note>
+      <step>3. Move the work sample and press the teaching button again (second time).</step>
+      <image>
+        <description>Similar to the previous image, but the work sample position has changed.</description>
+      </image>
+      <results>
+        <item>Teaching OK: Teaching indicator···Turns from red to green. Buzzer(built-in)···Beeps(once).</item>
+        <item>Teaching NG: Teaching indicator···Starts flashing in red. Buzzer(built-in)···Beeps(three times).</item>
+      </results>
+      <instruction>Modify the fiber unit and work positions. Repeat steps 1-4 again.</instruction>
+      <step>4. Set the mode selector switch to the RUN position.</step>
+      <note>Now the sensitivity setting is complete.</note>
+      <indicator>Teaching indicator···After lights up in green, turns off.</indicator>
+    </procedure>
+  </content>
+</page>
+
+<page number="28">
+  <content>
+    <section>Addendum # 1.</section>
+    <image>
+      <description>The image shows the internal components of an electrical control panel. Various parts are labeled:
+        - Motor Control: A circuit board in the top left corner
+        - Crystal Relays: Two cylindrical components in the center
+        - Main Fuse: Located on the right side
+        - Buttons: Green and red components at the bottom left
+        - Speed Hotofoil: Located at the bottom center
+        - Heat: A component at the bottom right
+        - Counter: Another component at the bottom right
+        
+        The panel contains numerous wires of different colors (yellow, white, red, blue, green) connecting various components. There's a terminal block at the top center and other electrical components spread throughout the panel.</description>
+    </image>
+  </content>
+</page>
+
+</manual>

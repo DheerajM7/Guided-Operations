@@ -1,0 +1,426 @@
+<manual>
+<page number="1">
+    <image>
+        The page displays the logo of GPS Log Book in the top right corner. The logo consists of four interconnected shapes in red, blue, green, and yellow, resembling a flower or pinwheel. To the right of the logo, the text "GPS LOG BOOK" is written in gray capital letters.
+    </image>
+    <title>SAMPLE User Manual</title>
+</page>
+
+<page number="2">
+    <title>Table of Contents</title>
+    <section number="1">
+        <heading>Introduction</heading>
+        <subsection number="1.1">Who can benefit from keeping an accurate Log Book</subsection>
+        <subsection number="1.2">Key Features of GPS Log Book</subsection>
+    </section>
+    <section number="2">
+        <heading>In The Box</heading>
+    </section>
+    <section number="3">
+        <heading>Technical Specifications</heading>
+    </section>
+    <section number="4">
+        <heading>Requirements</heading>
+        <subsection number="4.1">Minimum PC Requirements</subsection>
+        <subsection number="4.2">Supported web browsers include</subsection>
+    </section>
+    <section number="5">
+        <heading>Using the Device</heading>
+        <subsection number="5.1">Guidelines on how to use the GPS Log Book device</subsection>
+        <subsection number="5.2">LED Information</subsection>
+    </section>
+    <section number="6">
+        <heading>Getting Started</heading>
+        <subsection number="6.1">Download the GPS Log Book Sync Application</subsection>
+        <subsection number="6.2">Plugging your device into the computer for the first time</subsection>
+        <subsection number="6.3">Upload Data from the GPS Log Book Device</subsection>
+        <subsection number="6.4">Register an Additional Vehicle</subsection>
+    </section>
+    <section number="7">
+        <heading>Managing Trip Data</heading>
+        <subsection number="7.1">Trips Page</subsection>
+        <subsubsection number="7.1.1">Create and Edit Zones</subsubsection>
+        <subsubsection number="7.1.2">Change designation of a trip</subsubsection>
+        <subsubsection number="7.1.3">View Trip detail</subsubsection>
+        <subsubsection number="7.1.4">Add a comment about a specific trip</subsubsection>
+        <subsubsection number="7.1.5">Snap To Zone</subsubsection>
+        <subsubsection number="7.1.6">Selected Zone</subsubsection>
+        <subsection number="7.2">Zones Page</subsection>
+        <subsubsection number="7.2.1">Create a New Zone</subsubsection>
+        <subsection number="7.3">Reports</subsection>
+        <subsubsection number="7.3.1">SARS Vehicle Tax Log Book</subsubsection>
+        <subsubsection number="7.3.2">Business Travel Claim Report</subsubsection>
+        <subsubsection number="7.3.3">Trip List for All Vehicles</subsubsection>
+        <subsubsection number="7.3.4">Trip List for All Vehicles CSV</subsubsection>
+        <subsubsection number="7.3.5">Zone Detail Report</subsubsection>
+    </section>
+    <section number="8">
+        <heading>Managing the Account</heading>
+        <subsection number="8.1">Update Details</subsection>
+        <subsubsection number="8.1.1">Edit Personal Details</subsubsection>
+        <subsubsection number="8.1.2">Change Password</subsubsection>
+        <subsubsection number="8.1.3">Settings</subsubsection>
+        <subsubsection number="8.1.4">Personal Selection</subsubsection>
+    </section>
+    <section number="9">
+        <heading>Recommendations</heading>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 1 of 21
+    </footer>
+</page>Continuing the XML representation for pages 3 and 4 of the GPS Log Book user manual:
+
+<page number="3">
+    <section number="1">
+        <heading>Introduction</heading>
+        <content>
+            Maintaining an accurate log book can be a tedious affair. The GPS Log Book is a simple device that, together with an online system, greatly simplifies and assists this process. The benefits of the additional tax savings make it a very worthwhile device to own.
+
+            Keeping an accurate log book of business and personal travel is not only required as a legal prerequisite by the South African Revenue Service (SARS) if travel expenses are to be claimed, it also allows claims to be based on the actual distances travelled. Without a log book it would not be possible to claim for travel deductions.
+        </content>
+
+        <subsection number="1.1">
+            <heading>Who can benefit from keeping an accurate Log Book</heading>
+            <list>
+                <item>Sole proprietors, commission earners</item>
+                <item>Employees who receive a travel allowance</item>
+                <item>Employees, directors, members who use a company owned vehicle</item>
+            </list>
+        </subsection>
+
+        <subsection number="1.2">
+            <heading>Key Features of GPS Log Book</heading>
+            <list>
+                <item>User friendly and well-designed online system</item>
+                <item>SARS Compliance</item>
+                <item>Google Maps used to display trips</item>
+                <item>Customisation of start and end points (zones) specific to any trip</item>
+                <item>One year warranty period from date of purchase</item>
+                <item>Easy to add new vehicles</item>
+                <item>Easy to use on different computers</item>
+                <item>Ample storage capacity</item>
+                <item>Frequent recording interval on the device</item>
+                <item>No annual or monthly subscription fees are associated with the GPS Log Book and related services</item>
+            </list>
+        </subsection>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 3 of 21
+    </footer>
+</page>
+
+<page number="4">
+    <section number="2">
+        <heading>In the Box</heading>
+        <content>
+            When receiving the GPS Log book, the following items will be found in the box:
+            <list>
+                <item>GPS Log Book device</item>
+                <item>Illustrated quick start guide</item>
+                <item>USB Cable</item>
+            </list>
+        </content>
+    </section>
+
+    <section number="3">
+        <heading>Technical Specifications</heading>
+        <table>
+            <row>
+                <column>Component</column>
+                <column>Rating</column>
+            </row>
+            <row>
+                <column>Assisted GPS</column>
+                <column>High sensitivity 50 Channel GPS with a maximum accuracy of 2.5m</column>
+            </row>
+            <row>
+                <column>Power supply (input voltage range)</column>
+                <column>8V - 30V DC with transient protection. Internally fused at 8A.</column>
+            </row>
+            <row>
+                <column>Power supply (average current draw)</column>
+                <column>Approximately 45mA acquiring, 35-40mA tracking</column>
+            </row>
+            <row>
+                <column>USB Charger</column>
+                <column>5V, max 1A continuous</column>
+            </row>
+            <row>
+                <column>USB interface to PC</column>
+                <column>HID (Human Interface Device) via a USB Mini-B cable.</column>
+            </row>
+            <row>
+                <column>Super capacitor</column>
+                <column>Sufficient charge to hold the GPS time and data for > 8 hours.</column>
+            </row>
+            <row>
+                <column>Internal Flash Memory</column>
+                <column>4Mbytes total, 3.6Mbytes for trip data.</column>
+            </row>
+            <row>
+                <column>Metal components</column>
+                <column>Nickel plated mild and spring steel</column>
+            </row>
+            <row>
+                <column>Plastic</column>
+                <column>ABS Plastic</column>
+            </row>
+            <row>
+                <column>LED</column>
+                <column>Tri colour</column>
+            </row>
+            <row>
+                <column>Operating temperature</column>
+                <column>-10 to + 60 degrees C with 0.5A charging load</column>
+            </row>
+            <row>
+                <column>Dimensions</column>
+                <column>102mm x 41mm x 22mm</column>
+            </row>
+        </table>
+    </section>
+
+    <section number="4">
+        <heading>Requirements</heading>
+        <subsection number="4.1">
+            <heading>Minimum PC Requirements</heading>
+            <content>
+                The minimum requirements for running the software required to operate the GPS Log Book are listed below:
+                <list>
+                    <item>Microsoft Windows 7 / Vista / XP SP2</item>
+                    <item>MAC OS X 10.4 or later</item>
+                    <item>Internet Connectivity</item>
+                    <item>1 x USB port</item>
+                </list>
+            </content>
+        </subsection>
+
+        <subsection number="4.2">
+            <heading>Supported web browsers include</heading>
+            <list>
+                <item>Microsoft IE8 or greater</item>
+                <item>Mozilla Firefox</item>
+                <item>Google Chrome</item>
+            </list>
+        </subsection>
+    </section>
+
+    <section number="5">
+        <heading>Using the Device</heading>
+        <subsection number="5.1">
+            <heading>Guidelines on how to use the GPS Log Book device</heading>
+            <content>
+                Once the GPS Log Book device has been removed from the packaging, it is ready to start recording the first trip:
+                <list>
+                    <item>Plug the device into the 12V outlet / cigarette lighter of the vehicle.</item>
+                    <item>Turn the ignition of the vehicle on.</item>
+                </list>
+            </content>
+        </subsection>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 4 of 21
+    </footer>
+</page>Continuing the XML representation for pages 5 and 6 of the GPS Log Book user manual:
+
+<page number="5">
+    <section>
+        <list>
+            <item>The LED will be solid red – this indicates that the device has not yet found its position and is searching for satellites.</item>
+            <item>The LED will turn green – this indicates that the device has found its location and tracking is in progress.</item>
+            <item>The vehicle can now be driven and the GPS Log Book device will record the trip.</item>
+            <item>Remove the device at any stage to stop the recording.</item>
+        </list>
+        <note>
+            The device will end a trip when it loses power. Some vehicles' 12V outlet / cigarette lighter do not switch off when the ignition is turned off. In these cases the device will stop recording data and go into a low power mode when the vehicle does not move for 5 minutes.
+        </note>
+    </section>
+
+    <section number="5.2">
+        <heading>LED Information</heading>
+        <table>
+            <row>
+                <column>Red</column>
+                <column>The log book has power and is searching for satellites</column>
+            </row>
+            <row>
+                <column>Green</column>
+                <column>The log book has found satellites and is logging</column>
+            </row>
+            <row>
+                <column>Flashing Red</column>
+                <column>The log book is 80% full and will need to be connected to the server soon to upload the data (see below).</column>
+            </row>
+        </table>
+    </section>
+
+    <note>
+        <list>
+            <item>If the solid Red does not turn Green then the device is unable to find any satellites (e.g. if the vehicle is parked in a basement) and no data will be recorded.</item>
+            <item>It is recommended that the device is synchronised at least every 11 to 14 days. This will ensure optimal GPS performance is maintained.</item>
+            <item>The log book will find satellites faster if it has valid aiding data. Roughly speaking, aiding data gives the GPS an idea of where to start looking for satellites and hence helps it to find its location faster. This data will be loaded onto the device almost every time it is connected to the computer, and is valid for 14 days.</item>
+        </list>
+    </note>
+
+    <section number="6">
+        <heading>Getting Started</heading>
+        <subsection number="6.1">
+            <heading>Download the GPS Log Book Sync Application</heading>
+            <content>
+                The Sync Application is the application used to read data off the device and send it to the GPS Log Book server for processing and storing. Download and install this application before connecting the GPS Log Book device to your computer/laptop for the first time
+            </content>
+            <orderedlist>
+                <item>Navigate to the Downloads page of the GPS Log Book website www.gpslogbook.co.za/downloads</item>
+            </orderedlist>
+            <image>
+                Screenshot of the GPS Log Book website's Downloads page. The page displays the GPS Log Book logo at the top, followed by a Downloads heading. Below that, there are two download sections: one for Microsoft Windows Operating Systems and another for Mac OS X. Each section has a blue download button.
+            </image>
+            <orderedlist start="2">
+                <item>Ensure that the system requirements of the computer or laptop in use, meet those listed on the page.</item>
+                <item>Click on the relevant download icon.</item>
+            </orderedlist>
+        </subsection>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 5 of 21
+    </footer>
+</page>
+
+<page number="6">
+    <section number="6.3">
+        <heading>Upload Data from the GPS Log Book Device</heading>
+        <content>
+            After successfully creating an account and registering your device, you are ready to upload trip data to the website.
+        </content>
+        <orderedlist>
+            <item>Connect the GPS Log Book device to the computer using the USB cable provided.</item>
+            <item>The Sync Application will automatically download any trip data from the device and upload it to the GPS Log Book server.</item>
+            <item>The LED on the device will turn Red while data transfer is in progress.</item>
+            <item>Once all the data has been downloaded from the device and new aiding data downloaded to the device, a message will be displayed stating that it is safe to disconnect the device and the LED on the device will turn Blue.</item>
+        </orderedlist>
+        <image>
+            Screenshot of the GPS Log Book Sync Status window. The window shows the GPS Log Book logo and text stating "Sync complete - you can now disconnect your device". Below this is a green progress bar at 100% and a link to "Visit the GPS Log Book website".
+        </image>
+    </section>
+
+    <section number="6.4">
+        <heading>Register an Additional Vehicles</heading>
+        <content>
+            The following process outlines how to add additional vehicles to an existing account. Please note that a device can only have one active vehicle linked to it. This means that even if you have multiple vehicles registered only one can be linked to a specific device. All the trips recorded by the device will be assigned to the active vehicle.
+        </content>
+        <orderedlist>
+            <item>Navigate to the Account tab on the main menu and select Vehicles from the drop down list.</item>
+            <item>A list of vehicles associated to the account will be displayed.</item>
+        </orderedlist>
+        <image>
+            Screenshot of the GPS Log Book website's Vehicles page. The page shows the GPS Log Book logo and main navigation menu at the top. The content area is titled "Your Vehicles" but appears to be empty, likely indicating no vehicles have been added yet.
+        </image>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 10 of 21
+    </footer>
+</page>Continuing the XML representation for pages 7 and 8 of the GPS Log Book user manual:
+
+<page number="7">
+    <section number="7">
+        <heading>Managing Trip Data</heading>
+        <subsection number="7.1">
+            <heading>Trips Page</heading>
+            <content>
+                The GPS Log Book system will display all the trips for a specific vehicle. The account user has the ability to perform the following functions under the Trips section:
+            </content>
+            <subsection number="7.1.1">
+                <heading>Create and Edit Zones</heading>
+                <content>
+                    The zone is the area in which any given trip starts or ends. If it is the first time you view your trips all the zones will be labelled "Unknown". To create a zone at that point, click on the "Unknown". You will then be presented with the "Create new zone" dialog.
+                </content>
+                <image>
+                    Screenshot of the "Create new zone" dialog box overlaid on a Google Maps view. The dialog shows options to set a zone name, date, radius, and designation. The map displays a circular zone with a 100m radius centered on a specific location. The dialog also includes options to edit the zone shape and save the changes.
+                </image>
+                <content>
+                    The default zone radius is set to 100m. This can be changed at any stage and may be increased to a maximum of 500m and minimum of 0m. The zone radius is the area directly surrounding the point at which the trip started or ended. You can also change the zone to be a polygon or shape instead of a circle, by clicking the "Replace the zone circle with a shape" link. If you click the "Location Look-up" link, the web page will attempt to get the closest street address from Google Maps and display it in the Comment box.
+
+                    You can at any time change any of the information about the zone, including in the shape and size of the zone, by clicking on the name of the zone in the trip table.
+
+                    Click Save when you are done with creating or changing the zone. To undo the changes click on the cross in the top right-hand corner of the dialog box.
+
+                    Once you have created or update a zone, all the trips will be reprocessed and the new zone will be applied to the trips and the trip table will be update to reflect the change.
+                </content>
+            </subsection>
+        </subsection>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 12 of 21
+    </footer>
+</page>
+
+<page number="8">
+    <image>
+        Screenshot of the GPS Log Book web interface showing a trip log table. The table displays multiple trips with columns for Trip Date/Time, Start Zone, End Zone, Distance, Duration, Designation, and Comment. Each row represents a single trip with its details.
+    </image>
+    <section number="7.1.2">
+        <heading>Change designation of a trip</heading>
+        <content>
+            There are only two types of designation for a trip, business or private. It is important to indicate all business trips when claiming for business mileage in a tax return. To change the designation of a trip, click on the icon adjacent to the trip and it will change from personal (a picture of a house) to business (a picture of a briefcase) or vice versa. The designation can also be changed in the View Trip screen.
+        </content>
+    </section>
+    <image>
+        Screenshot of the GPS Log Book web interface showing a detailed view of trip entries. The table includes columns for Trip Date/Time, Start Zone, End Zone, Distance, Duration, and Designation. One row is highlighted, showing a trip on October 19, 2011, with a business designation indicated by a briefcase icon circled in red.
+    </image>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 13 of 21
+    </footer>
+</page>Continuing the XML representation for the final page of the GPS Log Book user manual:
+
+<page number="9">
+    <section number="7.1.3">
+        <heading>View Trip detail</heading>
+        <content>
+            To view the detail of a trip, click on View. The trip will be displayed on a map showing the trip in red. The trip can then have a comment added, or can be deleted. It is also possible to move to the next or previous trip from this page. Any changes made to the trip will be saved when you close the dialog or click the next or previous button. You must undo the changes manually if you don't want to keep them.
+        </content>
+    </section>
+    <image>
+        Screenshot of the GPS Log Book trip detail view. It shows a Google Maps interface with a red line indicating a trip route from a green start point to a red end point. The map covers an area including Centurion, Midrand, and surrounding areas. To the right of the map is a panel with trip details including date (Monday, 31 October 2011), start and end times, duration, distance, max and average speeds, and a comment field. Options to delete the trip and navigate to previous or next trips are visible.
+    </image>
+    <section number="7.1.4">
+        <heading>Add a comment about a specific trip</heading>
+        <content>
+            To add a comment to a trip, click on the comment field in the table or click on "View Trip".
+        </content>
+    </section>
+    <image>
+        Table showing trip details with columns for Trip Date/Time, Start Zone, End Zone, Distance, Duration, Private/Business, Comment, and View. Several trips are listed with their respective details.
+    </image>
+    <section number="7.1.5">
+        <heading>Snap To Zone</heading>
+        <content>
+            When a trip starts or ends within the snapping distance of a specific zone, that zone will automatically be selected. The zone selected will be referred to as a Snapped Zone. These zones will have an asterisk (*) next to them on the Trip Table.
+        </content>
+    </section>
+    <section number="7.1.6">
+        <heading>Selected Zone</heading>
+        <content>
+            When a starting or end point cannot be 'snapped' to a nearby zone, it is then possible to select an existing zone. Select the zone to be edited and then select the nearby zone from the drop down list provided. The assigned zone is referred to as a Selected Zone and will be marked with a tilde (~) next to the zone name on the Trip Table.
+        </content>
+    </section>
+    <footer>
+        GPS Log Book - User Manual
+        www.gpslogbook.co.za
+        Page 14 of 21
+    </footer>
+</page>
+</manual>

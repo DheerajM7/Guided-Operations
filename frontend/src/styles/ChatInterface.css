@@ -1,0 +1,195 @@
+.chat-interface {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  margin-left: 110px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  border: none;
+  border-radius: 8px;
+  z-index: 2;
+  font-family: 'Urbanist', sans-serif;
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.chat-interface-active {
+  margin-top: -100px; /* Move the interface up when active */
+}
+
+.question {
+  color: #E0E0E0;
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 10px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  transition: opacity 0.3s ease;
+}
+
+.chat-interface-active .question {
+  display: none; /* Hide the question when active */
+}
+
+.message-input {
+  display: flex;
+  padding: 10px;
+  background-color: transparent;
+  border-top: none;
+  width: 80vw;
+  height: 70px;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.message-input-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 80vw;
+  padding: 10px 5vw;
+  margin-left: 90px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  z-index: 100;
+}
+
+.chat-interface-active .message-input-bottom {
+  bottom: 20px; /* Adjust bottom position when active */
+}
+
+.input-wrapper {
+  position: relative;
+  flex-grow: 1;
+}
+
+.message-input input {
+  width: 95%;
+  height: 45px;
+  padding: 10px;
+  padding-right: 80px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-family: 'Urbanist', sans-serif;
+}
+
+.mic-icon {
+  position: absolute;
+  right: 45px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.send-icon {
+  position: absolute;
+  right: 2px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.mic-icon:hover,
+.send-icon:hover {
+  opacity: 1;
+}
+
+.ai-response {
+  margin-top: 180px;
+  margin-left: 18px;
+  padding: 15px 35px;
+  background-color: #324862;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 18px;
+  color: #E0E0E0;
+  width: 77vw;
+  max-height: 550px;
+  overflow-y: auto; /* Add scrolling for long responses */
+  word-wrap: break-word;
+  transition: all 0.3s ease; /* Add smooth transition */
+}
+
+/* Move AI response up when loading is false */
+.ai-response.active {
+  margin-top: 110px; /* Adjust this value to move it up */
+}
+
+.MuiBox-root {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.MuiButton-root {
+  margin: 5px;
+  font-family: 'Urbanist', sans-serif;
+  text-transform: none;
+  font-size: 24px;
+  font-weight: 800;
+  padding: 6px 12px;
+  min-width: 120px;
+  height: 82px;
+  border-radius: 20px;
+}
+
+.MuiButton-outlined {
+  color: #E0E0E0 !important;
+}
+
+.chat-interface-active .MuiBox-root {
+  display: none; /* Hide quick suggestions when active */
+}
+.message-input input::placeholder {
+  color: #A0A0A0; /* Change to your desired color */
+  font-size: 18px; /* Change to your desired font size */
+  font-weight: bold;
+  font-family: 'Urbanist', sans-serif; /* Ensure the font matches your input */
+  opacity: 1; /* Adjust opacity if needed */
+}
+.loading {
+  position: absolute;
+  display: flex;
+  font-size: 22px; /* Slightly reduce font size */
+  color: #585858; /* Font color */
+  font-weight: bold;
+  font-family: 'Urbanist', sans-serif;
+  background: linear-gradient(90deg, #7CE3FF 10%, #284F7D 78%); /* Linear gradient */
+  text-align: left;
+  align-items: center;
+  width: 79vw; /* Adjust width */
+  height: 40px; /* Increased height to fit the text */
+  padding: 10px 20px;
+  border-radius: 8px;
+  z-index: 100;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  top: 15%; /* Adjust vertical positioning */
+  left: 50.8%; /* Centers horizontally */
+  transform: translateX(-50%);
+  
+  overflow: hidden; /* Ensures text stays inside */
+  white-space: nowrap; /* Prevents text wrapping to the next line */
+  text-overflow: ellipsis; /* Adds "..." if text overflows */
+}
+
+.error-message {
+  color: rgb(190, 190, 190);
+  font-size: 16px;
+  margin-top: 90px;
+  margin-left: 10px;
+  background-color: #324862;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
